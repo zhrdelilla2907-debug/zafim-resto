@@ -26,3 +26,23 @@ Zafim Resto is a web-based restaurant management system developed using PHP and 
 ## Author
 
 **Zahra Adelia Afim**
+
+## Screenshots
+
+### Login Page
+![Login](Login.png)
+
+### Customer Home
+![Beranda](Beranda.png)
+
+### Profile Page
+![Profil](Profil.png)
+
+### Admin Dashboard
+![Dashboard](Dashboard.png)
+
+### Menu Management
+![Kelola Menu](Kelola-menu.png)
+
+### Sales Report
+![Laporan Penjualan](Laporan-penjualan.png)
